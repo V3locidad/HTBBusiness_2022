@@ -13,10 +13,15 @@ Le fichier mailer.php se présente comme ceci
 
 Après une recherche sur internet, nous découvrons une CVE sur le PHPMailer datant de 2016
 
+https://www.exploit-db.com/exploits/40969
+[https://nvd.nist.gov/vuln/detail/CVE-2016-10045]
+
 <img width="1360" alt="Capture d’écran 2022-07-19 à 07 45 14" src="https://user-images.githubusercontent.com/109574266/179676367-3574601c-3d61-471f-916c-e57417404ca3.png">
 
 Nous décidons d'essayer de l'exploiter.
 Nous allons d’abord essayer quelque chose de simple, comme afficher le PHPinfo
+
+payload : from 
 
 <img width="1470" alt="Capture d’écran 2022-07-19 à 07 51 09" src="https://user-images.githubusercontent.com/109574266/179676658-18b9baba-fb02-4f97-8039-98203c0220a8.png">
 
