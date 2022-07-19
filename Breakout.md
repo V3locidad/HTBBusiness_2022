@@ -18,7 +18,7 @@ Nous effectuons un " strings 0 " sur celui-ci
 
 <img width="1328" alt="Capture d’écran 2022-07-19 à 09 01 03" src="https://user-images.githubusercontent.com/109574266/179688375-0450580b-176d-4673-bf6f-eb47a146378a.png">
 
-Nous recherchons " HTB " sur le résultat du strings et nous avons directement le flag en clair
+Nous recherchons " HTB " avec la commande " grep "HTB{" sur le résultat du strings et nous avons directement le flag en clair
 
 <img width="95" alt="Capture d’écran 2022-07-19 à 09 02 20" src="https://user-images.githubusercontent.com/109574266/179688650-ba05761a-cd1f-414c-89c2-3eb4ed6a37c3.png">
 
