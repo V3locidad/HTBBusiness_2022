@@ -14,6 +14,7 @@ Le fichier mailer.php se présente comme ceci
 Après une recherche sur internet, nous découvrons une CVE sur le PHPMailer datant de 2016
 
 https://www.exploit-db.com/exploits/40969
+
 https://legalhackers.com/advisories/PHPMailer-Exploit-Remote-Code-Exec-CVE-2016-10045-Vuln-Patch-Bypass.html
 
 <img width="1360" alt="Capture d’écran 2022-07-19 à 07 45 14" src="https://user-images.githubusercontent.com/109574266/179676367-3574601c-3d61-471f-916c-e57417404ca3.png">
