@@ -9,7 +9,7 @@ Nous décidons de le télécharger
 
 <img width="1512" alt="Capture d’écran 2022-07-19 à 08 53 56" src="https://user-images.githubusercontent.com/109574266/179687312-d9286c59-8a20-472e-910d-35245681f78a.png">
 
-Nous remarquons que c'est un binaire, nous avons choisi de l'extraire avec binwalk
+Comme c'est un binaire, nous avons choisi de l'extraire avec binwalk
 
 <img width="1328" alt="Capture d’écran 2022-07-19 à 08 58 49" src="https://user-images.githubusercontent.com/109574266/179688081-42ba8336-8fc4-49f1-a71e-3582e975c4cf.png">
 
